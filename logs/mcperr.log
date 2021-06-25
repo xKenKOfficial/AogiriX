@@ -1,0 +1,10 @@
+21:01:18 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+21:05:11 - !! Missing server jar file. Aborting !!
+01:49:27 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+01:53:25 - !! client already decompiled. Run cleanup before decompiling again !!
+01:56:21 - '"C:\Program Files\Java\jdk1.8.0_291\bin\java" -jar runtime\bin\fernflower.jar -din=1 -rbr=1 -dgs=1 -asc=1 -rsy=1 -iec=1 -jvn=1 -log=WARN -e="temp/minecraft_server_ff_extra.jar" temp/minecraft_server_ff_in.jar temp\src\minecraft_server' failed : 1
+01:56:21 - Decompile failed
+14:59:32 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+15:01:07 - !! client already decompiled. Run cleanup before decompiling again !!
+15:10:02 - '"C:\Program Files\Java\jdk1.8.0_291\bin\java" -jar runtime\bin\fernflower.jar -din=1 -rbr=1 -dgs=1 -asc=1 -rsy=1 -iec=1 -jvn=1 -log=WARN -e="temp/minecraft_server_ff_extra.jar" temp/minecraft_server_ff_in.jar temp\src\minecraft_server' failed : 1
+15:10:02 - Decompile failed
