@@ -1,0 +1,39 @@
+                          ################################
+                          # AogiriClient 1.8.9 - License #
+                          ################################
+
+        Licencja jest dowodem projektowania clienta przez xKenKOffciail.
+
+    Wszelkie edycje tego co zostalo utworzone przez autora jak i publikacje kodu
+    sa surowo zabronione !
+
+    Klient zostal stworzony pod paczke klientow pvp ktora ma byc paczka antycheat
+    urozmaicajaca gre kazdego jej uzytkownika. Wszystkie rzeczy ktore w tej paczce
+    sie znajduja nie maja zamiaru dzialac na szkode serwera i rozgrywek na serwerze.
+
+    Dokladamy wszelkich staran aby paczka byla jak najlepsza. Bledy ktore sie moga
+    pojawic staramy sie jak najszybciej usuwac.
+
+    Jesli paczka zostala uznana za cheat-pack to bardzo przepraszamy.
+
+    AogiriClient to paczka wspierajaca Minecraft 1.8.9, ktora ma slyzyc pod pvp z
+    mozliwoscia antycheat aby urozmaicic gre naszych uzytkownikow. Nie mamy na celu
+    tworzyc paczek na zasadzie cheat-pack, poniewaz nie chcemy psuc rozgrywki naszych
+    uzytkownikow jak i uzytkownikow na arenie miedzynarodowej serwerow Minecraft. Jest
+    to swieza paczka dlatego moga sie pojawiac wszelkie problemy. Ale staramy sie tych
+    bledow jak najszybciej pozbywac.
+
+    Zawartosc naszej paczki:
+    - Lewy CTRL = Trwaly Sprint (zbindowany sprint)
+    - Pelerynka dla naszych uzytkowikow
+    - DraggableHud (FPS, Zycie Uzytkownika)
+    - Optifine (Key: C)
+
+    Paczka jest darmowym klientem do pobrania. Nie ma zadnych skanow, nie oszukujemy naszych
+    uzytkownikow.
+
+    Wszelkie kontakty z Developerem paczki:
+    - Discord: xKenKOfficial#6109
+
+    Linki do pobrania paczki:
+    Download: https://github.com/KenKOfficial/AogiriClient
